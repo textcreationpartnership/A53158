@@ -1,0 +1,320 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>News from Rome, or, A Dialogue between His Holiness and a cabal of cardinals at a late conclave, consulting the most effectual remedies to recover the lost credit of Holy Church in England : worthy the perusal of all true Protestants.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53158</idno>
+            <idno type="STC">Wing N995</idno>
+            <idno type="STC">ESTC R31747</idno>
+            <idno type="EEBO-CITATION">12251010</idno>
+            <idno type="OCLC">ocm 12251010</idno>
+            <idno type="VID">57082</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53158)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 57082)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1509:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>News from Rome, or, A Dialogue between His Holiness and a cabal of cardinals at a late conclave, consulting the most effectual remedies to recover the lost credit of Holy Church in England : worthy the perusal of all true Protestants.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1680?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint suggest by Wing.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Anecdotes</term>
+               <term>Anti-Catholicism --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:57082:1"/>
+            <!-- PDF PAGE 22 -->
+            <pb facs="tcp:57082:1"/>
+            <!-- PDF PAGE 22 -->
+            <head>NEWS FROM ROME, OR, A DIALOGUE Between His HOLINESSE AND A <hi>Cabal of Cardinals</hi> AT A LATE CONCLAVE: Conſulting The moſt Effectual Remedies to Recover the loſt Credit of <hi>HOLY CHURCH</hi> in <hi>ENGLAND.</hi>
+            </head>
+            <head>Worthy the Peruſal of all true Proteſtants.</head>
+            <sp>
+               <speaker>Pope.</speaker>
+               <lg>
+                  <l>MEN, Brethren, Fathers, Sons of Holy Love</l>
+                  <l>Adviſe your Sire, what courſe or way to move;</l>
+                  <l>Our Plots are Fruſtrate, our Deſigns all croſt,</l>
+                  <l>And I fear <hi>England</hi> (ſo much long'd for) loſt</l>
+                  <l>By Hereticks we're foyl'd and run aground,</l>
+                  <l>And <hi>Mother Church</hi> has got a Fatal Wound;</l>
+                  <l>Now to retrieve all, get and ſave our Friends,</l>
+                  <l>Lets ſtop at no thing that may reach our ends;</l>
+                  <l>Be ſpeedy in your Councels and advice,</l>
+                  <l>Speak freely all, and be in nothing nice.</l>
+               </lg>
+            </sp>
+            <pb n="2" facs="tcp:57082:2"/>
+            <!-- PDF PAGE 23 -->
+            <lg>
+               <l>At this a loud mouth'd Cardinal ſtrait roſe,</l>
+               <l>And in theſe Words his mind did thus diſeloſe:</l>
+               <l>Moſt Holy Father I dare boldly ſay</l>
+               <l>That our own People, our deſigns betray,</l>
+               <l>For they who ſeek a Precipice to Clime,</l>
+               <l>Will looſe no Opportunity or Time.</l>
+            </lg>
+            <lg>
+               <l>Yet ours in both have fayl'd, the more accurſt</l>
+               <l>Are we, to let our Scorpions Egg be burſt;</l>
+               <l>For had we ſtruck, when <hi>Glouceſters</hi> Duke did fall,</l>
+               <l>We in fit ſeaſon, had diſpatch'd them all;</l>
+               <l>Or taken hold upon thoſe Precious Days,</l>
+               <l>When the <hi>Fifth Monarchy,</hi> firſt ſpread its Rayes;</l>
+               <l>When they with Blinded Zeal were ſo Enrag'd,</l>
+               <l>Father 'gainſt Son, Brother 'gainſt each Engag'd:</l>
+               <l>Or elſe, when <hi>London</hi> was a Sacrifice,</l>
+               <l>Whoſe Flames the Signal ſhould have been to riſe,</l>
+               <l>But we in that too baſely were put off,</l>
+               <l>By that Dam'd Fool of Fools Old Doteing <hi>Goff;</hi>
+               </l>
+               <l>Whoſe Friends and Powers in <hi>France</hi> not ready we<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</l>
+               <l>Nor e're will be t'advance St. <hi>Peters</hi> Chair?</l>
+               <l>We to a fitter time muſt let it run,</l>
+               <l>And now you ſee, what a line Thread ye've ſpun?</l>
+               <l>Had I been there, but Heaven be Prais'd i'me here,</l>
+               <l>When this diſcoverie did firſt appear;</l>
+               <l>The Sun that Sets, ſhould not have Roſe again,</l>
+               <l>E're many Thouſands of them had been ſlain:</l>
+               <l>You ſhould have <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ict the time, then made <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m Bl<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed,</l>
+               <l>Delays in every thing do Danger breed.</l>
+               <l>Had you then giv'n the Blow, 'thad been no Plot,</l>
+               <l>'Tis only Treaſon 'cauſe it proſper'd not:</l>
+               <l>Nor can it be Retriev'd, tis paſt all hope,</l>
+               <l>And they may thank themſelves for th' Axe and Rope;</l>
+               <l>Alas our Plots are grown ſo Weak and Poor,</l>
+               <l>That we're out done by ev'ry Common Whore:</l>
+               <l>Each nights Intregue of hers, has plainly ſhown,</l>
+               <l>More Conduct than, all our Cabals can own;</l>
+               <l>We're ſo Unfortunate, tis hard to tell,</l>
+               <l>Whether our Aſſiſtance, is, from Heav'n or Hell.</l>
+            </lg>
+            <lg>
+               <l>This ſaid he ſate; Then Card'nal who was by,</l>
+               <l>His Counſel being ask'd, did ſtrait Reply;</l>
+               <l>I'le little ſay, for 'tis not worth the while,</l>
+               <l>We are ſo full of Fraud, Deceit and Guile:</l>
+               <l>That I much fear God ha's forgot us quite,</l>
+               <l>And left us to the Devil, and ſo good night.</l>
+            </lg>
+            <lg>
+               <l>He quits his place, and from the Conclave goes,</l>
+               <l>At which another Cardinal aroſe:</l>
+               <l>And doing Homage to his Holineſs,</l>
+               <l>Did to him in theſe Words himſelf addreſs:</l>
+            </lg>
+            <pb n="3" facs="tcp:57082:2"/>
+            <!-- PDF PAGE 23 -->
+            <lg>
+               <l>What ha's be<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n ſpoke already is to true.</l>
+               <l>Therefore to <hi>England,</hi> ye may bid Adieu.</l>
+               <l>Alas, your Buls, Indulgences and Pardons</l>
+               <l>They know as well as we's not worth four Farthings.</l>
+               <l>Your Bendictions and Anathem'as.</l>
+               <l>Of no more value are, than thoſe in Plays,</l>
+               <l>Your Legends, Reliques and your Purgatory;</l>
+               <l>The firſt are Fopperies t'other is a Story,</l>
+               <l>Yet you grant Diſpenſations, faith be civil;</l>
+               <l>Tell me who warrants 'em, God, or the De<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>il:</l>
+               <l>Father, here is none but Friends; I fear this Wound</l>
+               <l>Will through our Tottering <hi>Babel</hi> to the ground.</l>
+               <l>How can you hope Succels in any thing,</l>
+               <l>Or to your Yoke thoſe Free-born People bring?</l>
+               <l>When Hell it ſelf abounds not in ſuch Sin,</l>
+               <l>As at this time our Church does wallow in:</l>
+               <l>Which of us all, His <hi>Holineſs</hi> not ſpar'd,</l>
+               <l>Of God or Goodneſs has the luſt regards</l>
+               <l>Murders and Whoredomes are our ſmalleſt Crimes;</l>
+               <l>By Poiſons moſt unto Promotion climbs;</l>
+               <l>Name me but one, has got the Papal Seat</l>
+               <l>By Juſt Deſert, and I ſhall hope well yet.</l>
+               <l>A Siſters Raviſhment is held no Sin</l>
+               <l>With their own Off-ſpring, ſome have wicked been.</l>
+               <l>Remember pray, who whor'd <hi>MAROZIA,</hi>
+               </l>
+               <l>Who was inceſtious with <hi>OLYMPIA;</hi>
+               </l>
+               <l>And do you now complain, and are at ſtand?</l>
+               <l>Pray what ere proſpers that you take in hand.</l>
+               <l>She whom the Darling of the Church you call;</l>
+               <l>Our Engine P—ne're ſters to ſtop our fall;</l>
+               <l>'Tis true, She did diſſolue the P —</l>
+               <l>For which I wiſh we do not 'all repent;</l>
+               <l>And yet what Pardons and Indulgences</l>
+               <l>Were daily ſent her to bring things to paſs?</l>
+               <l>Now ſhe do's nothing, giv's our Friends, no hope.</l>
+               <l>Neglects both Jeſuite, Cardinal and Pope,</l>
+               <l>While ſhe her Coffers and her C— has cram'd;</l>
+               <l>She do's not value if we all were damn'd.</l>
+               <l>Nor would I have you ever truſt again</l>
+               <l>A Woman of <hi>Portugal, France,</hi> or <hi>Spain:</hi>
+               </l>
+               <l>He thus broke off, then came and ſate him down;</l>
+               <l>At which his <hi>Holineſs</hi> began to frown;</l>
+            </lg>
+            <sp>
+               <speaker>Pope.</speaker>
+               <l>Saying my Lord, you're very plain with me;</l>
+               <l>You are well read i'th' Lives o'th Saints I ſee:</l>
+               <l>But know, who ever do's poſſeſs this Room,</l>
+               <l>Is freed from ſins paſt<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, preſent and to come.</l>
+               <l>We cannot ere tho' all theſe things we do;</l>
+               <l>In us it is not, tho' 'tis ſin in you.</l>
+               <l>We are Gods Vicegerent and the Churches Head,</l>
+               <l>Can pardon ſins, both to the quick and dead.</l>
+               <l>But why do I theſe trivial things relate,</l>
+               <l>Greater Concerns we now have in debate.</l>
+               <pb n="4" facs="tcp:57082:3"/>
+               <!-- PDF PAGE 24 -->
+               <l>Once more I ſay all our Deſigns are croſt,</l>
+               <l>And if not timely helpt, our beſt Friend's loſt.</l>
+               <l>Think of the Lords i'th' Tower how they'r engag'd;</l>
+               <l>'Gainſt whom the Heathen are ſo much Enrag'd;</l>
+               <l>Theſe Perſons too, of more Renown and Fame,</l>
+               <l>Whom you all know, and I forbear to name;</l>
+               <l>I Pardons and Indulgencies can give,</l>
+               <l>To all the reſt whether they dye or live,</l>
+               <l>But theſe are not ſuch Fools er'e to Relie,</l>
+               <l>On Bulls or Pardons, when they come to dye:</l>
+               <l>Now how to ſave em<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, were a work indeed,</l>
+               <l>Your beſt of Councel give, ne're was more need;</l>
+            </sp>
+            <sp>
+               <speaker>Card.</speaker>
+               <l>At this one roſe and bow'd; and thus did ſay</l>
+               <l>May't pleaſe your <hi>HOLINESS.</hi> I'le ſhew the way,</l>
+               <l>P—muſt not ſit, that firſt reſolve,</l>
+               <l>Either Prorogue'em, or elſe them Diſſolve:</l>
+               <l>Before the Councel then, let the Lords come,</l>
+               <l>And there receive from them, this heavy Doom.</l>
+               <l>Let all their Eſtates be then Confiſcated.</l>
+               <l>We had better bear, with that then looſe a Head.</l>
+               <l>Then let them all be ſent to Baniſhment,</l>
+               <l>That they their Horrid Treaſon may Repent.</l>
+               <l>But as they croſs the Seas, twill waſh the ſlain,</l>
+               <l>And they er'e long ſhall be call'd home again;</l>
+               <l>Mean time their Heirs, all their Eſtates ſhall beg,</l>
+               <l>And gain 'em too, by making of a Leg;</l>
+               <l>This by the means of P— ſhall be done,</l>
+               <l>She will obtain it, for a <hi>Butter'd Bunn.</hi>
+               </l>
+               <l>Shee <hi>Dalilah</hi>-like, muſt <hi>Sampſon</hi> bind with Cords,</l>
+               <l>Freedom to gain for our Philiſtine-Lords.</l>
+               <l>The Commons will at this be all enrag'd;</l>
+               <l>We matter not ſo our Friends are diſengag'd;</l>
+               <l>Then all our Engines ſet to work again:</l>
+               <l>Corn grows the better for a ſhowr of Rain.</l>
+               <l>This is the only way to quite your fears,</l>
+               <l>And ſet them all together by the Ears</l>
+            </sp>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:57082:3"/>
+            <!-- PDF PAGE 24 -->
+         </div>
+      </body>
+   </text>
+</TEI>
